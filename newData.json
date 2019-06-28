@@ -1,0 +1,405 @@
+{
+	"count": 50,
+	"error": false,
+	"results": [{
+		"desc": "NipponColors App",
+		"ganhuo_id": "56cc6d26421aa95caa707f93",
+		"publishedAt": "2015-12-09T04:24:10.394000",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/broccolii/NipponColors",
+		"who": "Andrew Liu"
+	}, {
+		"desc": "Shotang-App\u3002",
+		"ganhuo_id": "5bcd6a6f9d2122185f44ef67",
+		"publishedAt": "2018-11-06T00:00:00",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/Shashank02051997/Shotang-App",
+		"who": "lijinshanmx"
+	}, {
+		"desc": "WeEat App",
+		"ganhuo_id": "572a1b5067765974f885c006",
+		"publishedAt": "2016-05-05T12:14:21.156000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/shuixingge/WeEat",
+		"who": "Jason"
+	}, {
+		"desc": "FlutterTodo app.",
+		"ganhuo_id": "5aff4779421aa961c94cf593",
+		"publishedAt": "2018-05-19T00:00:00",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/littlemarc2011/FlutterTodo",
+		"who": "lijinshanmx"
+	}, {
+		"desc": "Refactoring an existing Android app to support Instant App",
+		"ganhuo_id": "595efd67421aa90c9203d341",
+		"publishedAt": "2017-07-07T12:14:57.685000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://blog.mindorks.com/refactoring-an-existing-android-app-to-support-instant-app-aa11fe54fd73",
+		"who": "AMIT SHEKHAR"
+	}, {
+		"desc": "MAC \u4e0b Web App to native app \u7684\u6846\u67b6",
+		"ganhuo_id": "574670ee6776594b0d64dc4a",
+		"publishedAt": "2016-05-26T11:52:42.430000",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/djyde/WebShell",
+		"who": "\u4ee3\u7801\u5bb6"
+	}, {
+		"desc": "\u54c1\u8da3App",
+		"ganhuo_id": "56cc6d26421aa95caa708058",
+		"publishedAt": "2015-12-30T04:14:04.798000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/ltebean/novel-design",
+		"who": "Jason"
+	}, {
+		"desc": "\u8868\u60c5app",
+		"ganhuo_id": "57589f45421aa90ec0cb2744",
+		"publishedAt": "2016-06-14T11:52:47.320000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/klinker24/Android-SlidingEmojiKeyboard",
+		"who": "\u5927\u718a"
+	}, {
+		"desc": "Android App Shortcuts",
+		"ganhuo_id": "581950b0421aa91376974605",
+		"publishedAt": "2016-11-02T11:49:08.835000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://zhuanlan.zhihu.com/p/23357071",
+		"who": "LHF"
+	}, {
+		"desc": "Book dash App",
+		"ganhuo_id": "56cc6d26421aa95caa707f22",
+		"publishedAt": "2015-11-30T04:29:00.697000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/spongebobrf/BookdashAndroidApp",
+		"who": "Jason"
+	}, {
+		"desc": "\u64ad\u5ba2App",
+		"ganhuo_id": "570bb56d6776590f608f0be3",
+		"publishedAt": "2016-04-12T11:47:37.342000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/AntennaPod/AntennaPod",
+		"who": "Jason"
+	}, {
+		"desc": "\u5e72\u8d27App",
+		"ganhuo_id": "56cc6d29421aa95caa708152",
+		"publishedAt": "2016-01-12T04:15:24.612000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/tripleCC/GanHuoCode",
+		"who": "Jason"
+	}, {
+		"desc": "Popular Movies App",
+		"ganhuo_id": "57981c6e421aa90d36e9608f",
+		"publishedAt": "2016-07-27T11:27:16.610000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/maksim-m/Popular-Movies-App",
+		"who": "\u5495\u549a"
+	}, {
+		"desc": "BookShelf Android App",
+		"ganhuo_id": "576fea91421aa9531e490a54",
+		"publishedAt": "2016-06-27T11:31:53.048000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/iHaPBoy/BookShelf",
+		"who": "Jason"
+	}, {
+		"desc": "\u9690\u85cfapp\u7684app\uff0c\u7528\u5904\u81ea\u5df1\u6316\u6398\u3002",
+		"ganhuo_id": "572a1d9767765974fbfcfa05",
+		"publishedAt": "2016-05-05T12:14:21.156000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/blackbbc/Evil-Hide",
+		"who": "Jason"
+	}, {
+		"desc": "OpenShop.io(\u7535\u5546App)",
+		"ganhuo_id": "5734a4ce67765903f180e726",
+		"publishedAt": "2016-05-13T11:08:37.042000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/openshopio/openshop.io-android",
+		"who": "Jason"
+	}, {
+		"desc": "MD\u82b1\u74e3App",
+		"ganhuo_id": "5745c60a6776594b0d64dc3c",
+		"publishedAt": "2016-05-26T11:52:42.430000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/LiCola/huabanDemo",
+		"who": "Jason"
+	}, {
+		"desc": "App Transport Security(ATS)\n",
+		"ganhuo_id": "56cc6d26421aa95caa707d19",
+		"publishedAt": "2016-03-18T12:18:39.928000",
+		"readability": "",
+		"type": "iOS",
+		"url": "http://southpeak.github.io/blog/2015/09/14/app-transport-security-ats/",
+		"who": "CallMeWhy"
+	}, {
+		"desc": "Android App Performance Optimization",
+		"ganhuo_id": "595b0f5a421aa90cb4724b60",
+		"publishedAt": "2017-07-04T11:50:36.484000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://blog.mindorks.com/android-app-performance-optimization-cdccb422e38e",
+		"who": "AMIT SHEKHAR"
+	}, {
+		"desc": "\u897f\u7a97\u70db iOS App",
+		"ganhuo_id": "571f8cc967765974fbfcf988",
+		"publishedAt": "2016-04-27T12:04:15.019000",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/hustlzp/xichuangzhu-ios",
+		"who": "tripleCC"
+	}, {
+		"desc": "Go + HTML \u5f00\u53d1 App",
+		"ganhuo_id": "57e471bd421aa95bc3389877",
+		"publishedAt": "2016-09-23T11:38:57.170000",
+		"readability": "",
+		"type": "\u62d3\u5c55\u8d44\u6e90",
+		"url": "https://github.com/alexflint/gallium",
+		"who": "\u4ee3\u7801\u5bb6"
+	}, {
+		"desc": "\u5728 App \u5185\u5b9e\u73b0 App UI \u8bbe\u8ba1\u7684\u8bbe\u8ba1\u5de5\u5177\u3002",
+		"ganhuo_id": "5a273dc8421aa90fe2f02cb6",
+		"publishedAt": "2017-12-06T08:49:34.303000",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/willowtreeapps/Hyperion-iOS",
+		"who": "\u4ee3\u7801\u5bb6"
+	}, {
+		"desc": "\u5929\u6c14App",
+		"ganhuo_id": "56cc6d26421aa95caa708063",
+		"publishedAt": "2015-12-23T03:52:41.887000",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/comyarzaheri/Sol",
+		"who": "Jason"
+	}, {
+		"desc": "\u77ed\u89c6\u9891ios app",
+		"ganhuo_id": "56dce7d46776592b5d90baff",
+		"publishedAt": "2016-03-07T12:49:24.470000",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/huijimuhe/prankPro",
+		"who": "Dear\u5b85\u5b66\u957f"
+	}, {
+		"desc": "app\u4e0b\u8f7d\u5b89\u88c5",
+		"ganhuo_id": "575e746a421aa93009aa6488",
+		"publishedAt": "2016-06-14T11:52:47.320000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/yaming116/UpdateApp",
+		"who": "\u82b1\u5f00\u582a\u6298\u679d"
+	}, {
+		"desc": "Android App Bundle\u4ecb\u7ecd",
+		"ganhuo_id": "5b10d9be421aa91759d8b3e8",
+		"publishedAt": "2018-06-04T00:00:00",
+		"readability": "",
+		"type": "Android",
+		"url": "https://smallsoho.com/android/2018/05/28/AppBundle%E6%8E%A2%E7%B4%A2/",
+		"who": "\u9648\u9f99\u535a"
+	}, {
+		"desc": "WidgetKit\uff1a\u52a8\u6001\u52a0\u8f7d \u201c\u53e6\u4e00\u4e2a App\u201d \u5230 App \u91cc",
+		"ganhuo_id": "5b371aee421aa9556d2cc4c3",
+		"publishedAt": "2018-07-02T00:00:00",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/faviomob/WidgetKit",
+		"who": "\u76ae\u7279\u5c14"
+	}, {
+		"desc": "\u7528Swift\u5199\u56f4\u68cbApp",
+		"ganhuo_id": "56cc6d28421aa95caa7080b7",
+		"publishedAt": "2015-12-30T04:14:04.816000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/marknote/GoTao",
+		"who": "Jason"
+	}, {
+		"desc": "UI Libraries for Top App Developers\u3002",
+		"ganhuo_id": "5b8ec69f9d212206c1b383bb",
+		"publishedAt": "2018-09-11T00:00:00",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/app-developers/top",
+		"who": "App Developers"
+	}, {
+		"desc": "Native App over HTTP, on Android\u3002",
+		"ganhuo_id": "5b710bd59d212275a78c26eb",
+		"publishedAt": "2018-08-13T00:00:00",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/Jasonette/JASONETTE-Android",
+		"who": "lijinshanmx"
+	}, {
+		"desc": "\u4eff\u77e5\u4e4e\u65e5\u62a5App",
+		"ganhuo_id": "56cc6d1d421aa95caa7077f0",
+		"publishedAt": "2015-08-28T03:57:22.848000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/iKrelve/KuaiHu",
+		"who": "Jason"
+	}, {
+		"desc": "\u4eff\u77e5\u4e4e\u65e5\u62a5App",
+		"ganhuo_id": "56cc6d26421aa95caa707f47",
+		"publishedAt": "2015-12-02T04:39:38.448000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/hshpy/HPYZhiHuDailly",
+		"who": "Jason"
+	}, {
+		"desc": "Music App For Tv/Pad implement",
+		"ganhuo_id": "56cc6d26421aa95caa707f84",
+		"publishedAt": "2015-12-08T04:09:51.792000",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/MartinRGB/MTMusicPlayer",
+		"who": "Andrew Liu"
+	}, {
+		"desc": "\u9ad8\u4eff\u4e0b\u53a8\u623fApp",
+		"ganhuo_id": "572a188d67765974fbfcfa04",
+		"publishedAt": "2016-05-05T12:14:21.156000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/callmejoejoe/XCFApp",
+		"who": "Jason"
+	}, {
+		"desc": "Android app \u589e\u91cf\u66f4\u65b0\u3002",
+		"ganhuo_id": "58103fc2421aa913769745c6",
+		"publishedAt": "2016-10-27T11:41:45.088000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/kingwang666/AppAddUpdate",
+		"who": "kingwang"
+	}, {
+		"desc": "Native App over HTTP, on iOS \u3002",
+		"ganhuo_id": "5b710be09d212275a78c26ec",
+		"publishedAt": "2018-08-13T00:00:00",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/Jasonette/JASONETTE-iOS",
+		"who": "lijinshanmx"
+	}, {
+		"desc": "\u7528Swift\u5199\u56f4\u68cbApp",
+		"ganhuo_id": "56cc6d29421aa95caa7080db",
+		"publishedAt": "2016-01-04T04:24:04.635000",
+		"readability": "",
+		"type": "iOS",
+		"url": "http://www.jianshu.com/p/8053f0efb23b?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io",
+		"who": "Andrew Liu"
+	}, {
+		"desc": "\u4f7f\u7528 LLDB \u8c03\u8bd5 APP",
+		"ganhuo_id": "58c6b707421aa90efc4fb6c1",
+		"publishedAt": "2017-03-14T13:17:14.021000",
+		"readability": "",
+		"type": "iOS",
+		"url": "http://www.imlifengfeng.com/blog/?p=622",
+		"who": "feng"
+	}, {
+		"desc": "\u90a3\u4e9b\u7528 Swift \u5199\u7684 App ",
+		"ganhuo_id": "56cc6d1d421aa95caa70776f",
+		"publishedAt": "2015-07-27T04:01:34.809000",
+		"readability": "",
+		"type": "iOS",
+		"url": "http://imtx.me/archives/1940.html",
+		"who": "Andrew Liu"
+	}, {
+		"desc": "JSPatch \u2013 \u52a8\u6001\u66f4\u65b0iOS APP",
+		"ganhuo_id": "56cc6d1d421aa95caa7076ea",
+		"publishedAt": "2015-06-10T04:12:03.310000",
+		"readability": "",
+		"type": "iOS",
+		"url": "http://blog.cnbang.net/works/2767/",
+		"who": "Andrew Liu"
+	}, {
+		"desc": "\u56fe\u7247\u641c\u7d22APP\u6e90\u7801",
+		"ganhuo_id": "56d714246776592a03e624cd",
+		"publishedAt": "2016-04-14T11:43:31.514000",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/wenhuaijun/SearchPictureTool",
+		"who": "Jason"
+	}, {
+		"desc": "OSX App for Google Inbox and Gmail",
+		"ganhuo_id": "56cc6d29421aa95caa70822e",
+		"publishedAt": "2016-01-29T04:18:12.667000",
+		"readability": "",
+		"type": "\u62d3\u5c55\u8d44\u6e90",
+		"url": "https://github.com/Thomas101/wmail",
+		"who": "mthli"
+	}, {
+		"desc": "App\u7626\u8eab\u6700\u4f73\u5b9e\u8df5",
+		"ganhuo_id": "57dfc6a3421aa95bc338983e",
+		"publishedAt": "2016-09-21T11:37:24.210000",
+		"readability": "",
+		"type": "Android",
+		"url": "http://www.jianshu.com/p/8f14679809b3",
+		"who": "MVP"
+	}, {
+		"desc": "gifski-app\uff1a\u4e00\u4e2a\u53ef\u4ee5\u628a\u89c6\u9891\u8f6c\u6362\u4e3a GIF \u7684\u5f00\u6e90 Mac App",
+		"ganhuo_id": "5b44b1c5421aa92fccb520ae",
+		"publishedAt": "2018-07-13T00:00:00",
+		"readability": "",
+		"type": "App",
+		"url": "https://github.com/sindresorhus/gifski-app",
+		"who": "\u76ae\u7279\u5c14"
+	}, {
+		"desc": "\u7531App\u7684\u542f\u52a8\u8bf4\u8d77",
+		"ganhuo_id": "56cc6d1d421aa95caa7078c3",
+		"publishedAt": "2015-09-21T03:38:47.254000",
+		"readability": "",
+		"type": "iOS",
+		"url": "http://oncenote.com/2015/06/01/How-App-Launch/",
+		"who": "Andrew Liu"
+	}, {
+		"desc": "\u4f7f\u7528 Fuse \u5236\u4f5c Producter App",
+		"ganhuo_id": "56cc6d29421aa95caa708102",
+		"publishedAt": "2016-01-06T05:04:36.983000",
+		"readability": "",
+		"type": "iOS",
+		"url": "http://blog.zhowkev.in/2015/12/25/shi-yong-fuse-zhi-zuo-producter-app/",
+		"who": "Andrew Liu"
+	}, {
+		"desc": "\u4e00\u4e2a\u5b66\u4e60RxJava\u7684APP",
+		"ganhuo_id": "56e660e067765925924117db",
+		"publishedAt": "2016-03-16T11:24:01.505000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/jiang111/RxJavaApp/blob/master/README.md",
+		"who": "NewTab"
+	}, {
+		"desc": "WWDC app for OS X",
+		"ganhuo_id": "56cc6d1d421aa95caa707700",
+		"publishedAt": "2015-06-12T03:48:54.664000",
+		"readability": "",
+		"type": "iOS",
+		"url": "https://github.com/insidegui/WWDC",
+		"who": "Andrew Liu"
+	}, {
+		"desc": "\u77ed\u4fe1\u5f00\u6e90App",
+		"ganhuo_id": "56cc6d1d421aa95caa707791",
+		"publishedAt": "2015-08-17T03:54:47.361000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/qklabs/qksms",
+		"who": "Jason"
+	}, {
+		"desc": "\u4e00\u4e2a\u6f2b\u753bapp",
+		"ganhuo_id": "56cc6d1d421aa95caa70785b",
+		"publishedAt": "2015-09-22T03:53:01.563000",
+		"readability": "",
+		"type": "Android",
+		"url": "https://github.com/android-cjj/ComicReader",
+		"who": "\u6709\u65f6\u653e\u7eb5"
+	}]
+}
